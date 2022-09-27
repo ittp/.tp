@@ -1,0 +1,19 @@
+{
+  "name": "apitp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "api": "4.5.2",
+    "express": "4.17.1",
+    "express-async-router": "0.1.15",
+    "got": "12.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
